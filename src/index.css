@@ -5,6 +5,12 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: linear-gradient(to right, cornflowerblue, blue);
+}
+
+.App > h1 {
+   font-family: 'Kaushan Script', cursive;
+   color: #20bce3;
 }
 
 code {
